@@ -5,7 +5,7 @@ Watches a folder and syncs it to a remote machine using `rsync` whenever changes
 ```text
 Rsync Trigger
 
-Usage: ./rsync_trigger.sh <folder-to-watch>
+Usage: ./rsync_trigger.sh <folder-to-watch> <host>
 ```
 
 ## Running the Sync Tool
